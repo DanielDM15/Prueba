@@ -18,5 +18,5 @@
    </ImageView>
 
   <Label fx:id="welcomeText" />
-  <Button onAction="#onHelloButtonClick" text="Da clic aqui..." />
+  <Button fx:id="btnAction" onAction="#onHelloButtonClick" text="Da clic aqui..." />
 </VBox>
