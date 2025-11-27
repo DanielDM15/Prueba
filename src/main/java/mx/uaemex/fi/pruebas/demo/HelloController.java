@@ -16,5 +16,7 @@ public class HelloController {
         chiva.setVisible(true);
         welcomeText.setText("Arriba las chivas---");
         btnAction.setVisible(false);
+
+        System.out.println("Dale rebaño!!!");
     }
 }
